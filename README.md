@@ -90,7 +90,7 @@ I'm open to collaborations in:
 
 ## 📫 How to Reach Me
 
-Feel free to reach me an email at [assad5724@gmail.com](mailto:assad5724@gmail.com) or connect with me on [LinkedIn](https://www.linkedin.com/in/assadakram/), [Upwork](https://www.upwork.com/freelancers/assadakram).
+Feel free to reach me via email at [assad5724@gmail.com](mailto:assad5724@gmail.com) or connect with me on [LinkedIn](https://www.linkedin.com/in/assadakram/), [Upwork](https://www.upwork.com/freelancers/assadakram).
 
 ---
 
