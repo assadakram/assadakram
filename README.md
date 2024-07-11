@@ -15,7 +15,7 @@ Accomplished full-stack developer with a proven track record of designing and de
 
 ## 💼 Experience
 
-- **Frontend Lead at <span style="color:blue">Hyly.ai</span>** 
+- **Frontend Lead at [Hyly.ai]()** 
 
   Spearhead punctual delivery of new features through meticulous planning. Effectively distribute tasks among the team, fostering collaboration. Implemented intricate logic and executed API integrations to enhance overall functionality. Collaborate with executive leadership to strategize and execute action plans for upcoming initiatives.
   - Enhanced user interface and reporting functionality by implementing MaterialUI designs from Figma, ensuring interactivity through integration with GraphQL API..
