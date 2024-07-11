@@ -20,7 +20,7 @@ Accomplished full-stack developer with a proven track record of designing and de
   Spearhead punctual delivery of new features through meticulous planning. Effectively distribute tasks among the team, fostering collaboration. Implemented intricate logic and executed API integrations to enhance overall functionality. Collaborate with executive leadership to strategize and execute action plans for upcoming initiatives.
   - Enhanced user interface and reporting functionality by implementing MaterialUI designs from Figma, ensuring interactivity through integration with GraphQL API..
 
-- **Team Lead at <span style="color:blue">AlphaSquad, Islamabad-Pakistan </span>**
+- **Team Lead at [AlphaSquad, Islamabad-Pakistan]()**
 
   Crafted comprehensive developer guidelines and assumed a leadership role across multiple projects, influencing crucial design decisions and overseeing end-to-end QA processes. Took charge of the meticulous deployment and release notes for both web and mobile applications. Played a pivotal role in Backend Development, contributing to the creation of APIs using NodeJS, Laravel, and Firebase cloud functions. Conducted rigorous code reviews within a trunk-based development framework, ensuring the integrity and high quality of team members' code.
 
@@ -28,7 +28,7 @@ Accomplished full-stack developer with a proven track record of designing and de
   - Established proactive client communication, consistently managing expectations, meeting stringent deadlines, and flexibly adapting to evolving project requirements.
   - Championed development of sophisticated features such as Advanced Search, Authentication, and dynamic Table sorting, in addition to incorporating a Headless CMS.
 
-- **Full Stack Developer at <span style="color:blue">I-Intellect Inc., Abbottabad-Pakistan </span>**
+- **Full Stack Developer at [I-Intellect Inc., Abbottabad-Pakistan]()**
 
   Led multiple projects as the Lead Frontend Developer, steering teams to success. Engineered intricate functionalities to elevate project sophistication. Played integral role as an Integration Expert for combining APIs and third-party components for project integration.
 
@@ -37,7 +37,7 @@ Accomplished full-stack developer with a proven track record of designing and de
   - Explore the project at https://jetsense.vercel.app/.
   - Directed development of a CMS website, driving 90% of the work on both the front-end and back-end.
   
-- **Junior Frontend developer at <span style="color:blue">Solosoft, Abbottabad-Pakistan </span>**
+- **Junior Frontend developer at [Solosoft, Abbottabad-Pakistan]()**
 
   Transformed PSD designs into responsive HTML/CSS layouts, utilising Bootstrap for enhanced UI. Engineered dynamic web pages with VanillaJS and jQuery to ensure interactivity. Aided in creation of engaging and interactive web pages through the implementation of VanillaJS and jQuery.
 
