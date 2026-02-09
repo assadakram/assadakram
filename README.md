@@ -15,6 +15,15 @@ Accomplished full-stack developer with a proven track record of designing and de
 
 ## 💼 Experience
 
+- **Senior Software Engineer at KabuK Style Inc, Nagasaki-Japan**
+
+  As a Senior Software Engineer at Kabuk Style Inc., I focus on building high-performance, scalable front-end features for a next-generation hospitality platform. Leveraging technologies like Next.js, TypeScript, Styled Components, and GraphQL, I collaborate closely with designers and backend engineers to deliver user-centric solutions that are both maintainable and efficient. My role emphasizes crafting intuitive interfaces, improving performance, and refactoring legacy code into modular, reusable components.
+  - Developed a custom drag-and-drop feature using React DnD to allow users to rearrange uploaded images dynamically.
+  - Redesigned the settings section into a modular, route-based architecture, enhancing scalability and maintainability.
+  - Built a fully responsive mobile navigation menu, ensuring seamless access and improved user experience across devices.
+  - Integrated front-end components with GraphQL APIs, optimizing data fetching patterns and UI responsiveness.
+  - Identified and resolved SEO issues, ensuring accurate meta content and better visibility on Google search results.
+
 - **Frontend Lead at Hyly.ai,Ashburn, Virginia** 
 
   Spearhead punctual delivery of new features through meticulous planning. Effectively distribute tasks among the team, fostering collaboration. Implemented intricate logic and executed API integrations to enhance overall functionality. Collaborate with executive leadership to strategize and execute action plans for upcoming initiatives.
